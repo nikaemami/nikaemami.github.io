@@ -21,7 +21,7 @@ repository               : "nikaemami/nikaemami.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_8733.jpg"
   name             : "Nika Emami"
   pronouns         : "she/her"  
   bio              : "PhD Student at NYU"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : nikaemami
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
