@@ -2,6 +2,10 @@
 main:
   - title: "CV"
     url: /files/CV.pdf
+
+  - title: "Updates"
+   url: /pages/updates.md
+    
   #- title: "Publications"
    # url: /publications/
 
@@ -10,9 +14,7 @@ main:
   
   #- title: "Portfolio"
    # url: /portfolio/
-   
-  # - title: "Updates"
-  #  url: /year-archive/
+  
 
   # - title: "Teaching"
   #  url: /teaching/ 
