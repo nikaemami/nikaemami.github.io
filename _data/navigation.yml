@@ -4,7 +4,7 @@ main:
     url: /files/CV.pdf
 
   - title: "Updates"
-   url: /_pages/updates.md
+   url: /files/updates.md
     
   #- title: "Publications"
    # url: /publications/
