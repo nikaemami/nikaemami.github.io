@@ -11,6 +11,15 @@ Hi! I am Nika. I am a first year PhD student in Electrical Engineering at New Yo
 
 Outside academia, I am passionate about photography and content creation. I enjoy exploring new places, whether it's walking through the streets of NYC, or traveling to new and exciting places! 
 
+PhD Research
+======
+* Leveraging deep learning to decode Electrocorticographic (ECoG) signals to enable communication for individuals with
+speech impairments, contributing to the advancement of brain-computer interface (BCI) technologies
+
+* Introducing a brain decoding method for analyzing fMRI responses to visual perception using a dataset of natural scenes,
+where the visual features of images extracted from deep neural networks are used as the decoding targets.
+
+
 Updates
 ======
 * May 2024:
