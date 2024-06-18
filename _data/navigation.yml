@@ -5,7 +5,10 @@ main:
 
   - title: "Updates"
     url: /files/updates.md
-    
+
+  - title: "Teaching"
+    url: /teaching/ 
+     
   #- title: "Publications"
    # url: /publications/
 
@@ -16,8 +19,7 @@ main:
    # url: /portfolio/
   
 
-  # - title: "Teaching"
-  #  url: /teaching/ 
+  
     
   #- title: "Guide"
  #   url: /markdown/
