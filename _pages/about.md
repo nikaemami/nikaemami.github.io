@@ -11,6 +11,15 @@ Hi! I am Nika. I am a first year PhD student in Electrical Engineering at New Yo
 
 Outside academia, I am passionate about photography and content creation. I enjoy exploring new places, whether it's walking through the streets of NYC, or traveling to new and exciting places! 
 
+Updates
+======
+* May 2024:
+  * I am delighted to announce that our paper has been accepted for a poster presentation at the 7th Annual Conference on Cognitive Computational Neuroscience (CCN), taking place in Boston, Massachusetts, in August 2024. I am looking forward to presenting our research at this event.
+
+* April 2024:
+  * I'm proud to have presented our work 'Neural Speech Decoding: Leveraging Deep Learning for future brain-computer interface' alongside my brilliant lab members and under the guidance of my advisor, Prof. Yao Wang. I’m grateful for the positive feedback and engaging discussions we shared at the exhibit, and I look forward to the developments ahead for this project!
+
+
 <!-- #This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages]###(https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to #the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the #kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]#(https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, #with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 #A data-driven personal website
