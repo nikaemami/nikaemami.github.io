@@ -18,6 +18,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
   
-  - title: "Updates"
-    url: /markdown/
+  # - title: "Updates"
+  #   url: /markdown/
 
