@@ -2,7 +2,10 @@
 main:
   - title: "CV"
     url: /files/CV.pdf
-
+    
+  - title: "Updates"
+    url: /updates/
+    
   # - title: "Talks"
   #   url: /talks/ 
 
