@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "CV"
     url: /files/CV.pdf
@@ -7,16 +7,17 @@ main:
     url: /files/updates.md
 
   - title: "Talks"
-   url: /talks/ 
+    url: /talks/ 
 
   - title: "Teaching"
-   url: /teaching/ 
+    url: /teaching/ 
      
   - title: "Publications"
-   url: /publications/
+    url: /publications/
 
- - title: "Portfolio"
-   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
   
- - title: "Guide"
-   url: /markdown/
+  - title: "Guide"
+    url: /markdown/
+
