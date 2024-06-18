@@ -3,9 +3,6 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
-  # - title: "Updates"
-  #   url: /updates/
-
   # - title: "Talks"
   #   url: /talks/ 
 
@@ -18,6 +15,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
   
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
