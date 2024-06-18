@@ -212,6 +212,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  updates:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -267,6 +270,15 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+
+  # _updates
+  - scope:
+      path: ""
+      type: updates
+    values:
+      layout: single
       author_profile: true
       share: true
 
