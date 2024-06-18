@@ -13,11 +13,11 @@ I am currently engaged in two main projects:
 
 * Decoding Electrocorticographic (ECoG) Signals Using Deep Learning:
   
-This project focuses on decoding Electrocorticographic (ECoG) signals with the aim of enabling communication for individuals with speech impairments. This research involves leveraging advanced deep learning techniques to interpret complex brain signals, which can be translated into communication outputs. Our goal is to contribute to the field of brain-computer interface (BCI) technologies, providing new avenues for assistive communication and enhancing the quality of life for individuals with severe communication disorders.
+  This project focuses on decoding Electrocorticographic (ECoG) signals with the aim of enabling communication for individuals with speech impairments. This research involves leveraging      advanced deep learning techniques to interpret complex brain signals, which can be translated into communication outputs. Our goal is to contribute to the field of brain-computer           interface (BCI) technologies, providing new avenues for assistive communication and enhancing the quality of life for individuals with severe communication disorders.
 
 * Brain Decoding for Visual Perception Analysis with fMRI data:
 
-This project introduces a novel brain decoding method to analyze functional Magnetic Resonance Imaging (fMRI) responses to visual stimuli. We utilize a dataset of natural scenes and employ deep neural networks to extract visual features from these images, which are then used as decoding targets. This research aims to deepen our understanding of how the brain processes visual information, providing insights into neural representations and potentially informing the development of advanced cognitive and neural interface technologies.
+  This project introduces a novel brain decoding method to analyze functional Magnetic Resonance Imaging (fMRI) responses to visual stimuli. We utilize a dataset of natural scenes and        employ deep neural networks to extract visual features from these images, which are then used as decoding targets. This research aims to deepen our understanding of how the brain           processes visual information, providing insights into neural representations and potentially informing the development of advanced cognitive and neural interface technologies.
 
 Outside academia, I am passionate about photography and content creation. I enjoy exploring new places, whether it's walking through the streets of NYC, or traveling to new and exciting places! 
 
