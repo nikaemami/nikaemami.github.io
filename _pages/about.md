@@ -28,7 +28,7 @@ Updates
   * I am happy to share that I attended the annual conference on Cognitive Computational Neuroscience (CCN 2024) in Boston, where I had the opportunity to present a poster on our paper, 'Visual Feature-Based Brain Decoding Yields Weight Maps Better Aligned with Scene Understanding than Classification'.
 
 * May 2024:
-  * I am delighted to announce that our paper has been accepted for a poster presentation at the 7th Annual Conference on Cognitive Computational Neuroscience (CCN), taking place in Boston, Massachusetts, in August 2024. I am looking forward to presenting our research at this event.
+  * I am delighted to announce that our paper has been accepted for a poster presentation at the 7th Annual Conference on Cognitive Computational Neuroscience (CCN) in August 2024. I am looking forward to presenting our research at this event.
 
 * April 2024:
   * I'm proud to have presented our work 'Neural Speech Decoding: Leveraging Deep Learning for future brain-computer interface' alongside my brilliant lab members and under the guidance of my advisor, Prof. Yao Wang. I’m grateful for the positive feedback and engaging discussions we shared at the exhibit, and I look forward to the developments ahead for this project!
