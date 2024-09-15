@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Nika. I am a second year PhD student in Electrical Engineering at New York University under the supervision of Prof. Yao Wang, [NYU Video Lab](https://wp.nyu.edu/videolab/). I received my Bachelors in Electrical Engineering from the University of Tehran in 2023. My research interests are in the fields of Deep Learning, Computer Vision, and Speech Processing. 
+Hi! I am Nika. I am a second year PhD student in Electrical Engineering at New York University under the supervision of Prof. Yao Wang, <a href="https://wp.nyu.edu/videolab/" style="color: inherit;">NYU Video Lab</a>. I received my Bachelors in Electrical Engineering from the University of Tehran in 2023. My research interests are in the fields of Deep Learning, Computer Vision, and Speech Processing. 
+
+
+Outside academia, I am passionate about photography and content creation. I enjoy exploring new places, whether it's walking through the streets of NYC, or traveling to new and exciting places! 
 
 <!-- I am currently engaged in two main projects:
 
@@ -18,8 +21,6 @@ Hi! I am Nika. I am a second year PhD student in Electrical Engineering at New Y
 * Brain Decoding for Visual Perception Analysis with fMRI data:
 
   This project introduces a novel brain decoding method to analyze functional Magnetic Resonance Imaging (fMRI) responses to visual stimuli. We utilize a dataset of natural scenes and        employ deep neural networks to extract visual features from these images, which are then used as decoding targets. This research aims to deepen our understanding of how the brain           processes visual information, providing insights into neural representations.
-
-Outside academia, I am passionate about photography and content creation. I enjoy exploring new places, whether it's walking through the streets of NYC, or traveling to new and exciting places! 
 
 -->
 
