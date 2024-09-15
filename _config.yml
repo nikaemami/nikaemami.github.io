@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "IMG_87332.jpg"
   name             : "Nika Emami"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "PhD Student at NYU"
   location         : "New York City"
   employer         : "New York University"
